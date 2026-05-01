@@ -8,7 +8,7 @@ Drive your flying ship while you are avoiding obstacles and fighting fearsome en
 * **Laser attacks** -> the airship can shoot lasers(left click / ctrl) to defend itself from obstacles and enemies
 * **Score system** -> when you destroy an enemy or an obstacle, your score is increasing
 * **Death system** -> if the airship collides with an obstacle or an enemy, it gets destroied and it's game over
-* !! I don't own the airships and any texture from the project
+* !! I don't own the airships, the trees and any texture from the project
 
 ## 📷 Screenshots
 <img width="1906" height="898" alt="Screenshot 2026-05-01 163805" src="https://github.com/user-attachments/assets/e69700e1-9a98-476c-a368-7fea232ee94d" />
