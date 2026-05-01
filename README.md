@@ -6,7 +6,7 @@ Drive your flying ship while you are avoiding obstacles and fighting fearsome en
 * **Moving system** -> the airship can go up(w), down(s), left(a) and right(d) on screen, without leaving it, by using the input system that Unity has
 * **Animator** -> there is a timeline made for the player, the obstacles and the enemies to make the player(airship) go forward and to sincronize the ostacles and the enemies attacks to endanger the player.
 * **Laser attacks** -> the airship can shoot lasers(left click / ctrl) to defend itself from obstacles and enemies
-* **Score system** -> when you destroy an enemy or an obstacle, youe score is increasing
+* **Score system** -> when you destroy an enemy or an obstacle, your score is increasing
 * **Death system** -> if the airship collides with an obstacle or an enemy, it gets destroied and it's game over
 * !! I don't own the airships and any texture from the project
 
